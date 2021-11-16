@@ -12,3 +12,8 @@
 # exericios 4
 
 ![2021-11-14 (4)](https://user-images.githubusercontent.com/71970033/141696480-20d22401-2fc2-4ac9-bd59-c3f1870dc179.png)
+
+
+exercicio 6
+![2021-11-16](https://user-images.githubusercontent.com/71970033/141976243-16b73a3b-838f-4ccb-aad5-f658868a40b5.png)
+
